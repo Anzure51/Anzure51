@@ -10,8 +10,7 @@
  [![Anzure's GitHub stats](https://github-readme-stats.vercel.app/api?username=minzure)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%234054BB&title_bg=%23000000&icon=windows95.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminzure&count_bg=%231B57A6&title_bg=%23000000&icon=windows95.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:junebeta06@gmail.com)](mailto:junebeta06@gmail.com)
 
