@@ -3,4 +3,4 @@
 ## HI!
 
 ### I Am MinZure
- [![Anzure's GitHub stats](https://github-readme-stats.vercel.app/api?username=anzure51)](https://github.com/anuraghazra/github-readme-stats)
+ [![Anzure's GitHub stats](https://github-readme-stats.vercel.app/api?username=minzure)](https://github.com/anuraghazra/github-readme-stats)
